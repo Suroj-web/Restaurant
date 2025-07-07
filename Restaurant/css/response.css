@@ -1,0 +1,148 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 320.98px) {
+
+ }
+
+@media (max-width: 575.98px) { 
+
+    .main5 {
+        height: 873px;
+    }
+
+}
+
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+       .font{font-size: 21px;}
+
+       .f{font-size: 21px;}
+
+       .p{font-size: 42px;}
+
+       .button-container{margin-right: -3px;
+         margin-top: -97px;}
+
+        .main2{height: 665px;}
+
+        .pic{height: 276px;
+        margin-top: 5px;
+        margin-left: 76px;
+        width: 74%;
+        }
+
+        .headd{
+            font-size: 30px;
+        }
+
+        .para{
+            font-size: 18px;
+        }
+
+        .para1{
+            font-size: 18px;
+        }
+
+        .mess{
+            width: 703px;
+        }
+
+        .messs {
+    width: 777px;
+    margin-bottom: 30px;
+    }
+        
+    .sub {
+    width: 777px;
+    }
+
+    .f-r {
+        height: 479px;
+        margin-top: -18px;
+        float: none;
+
+    }
+
+    .tab button {
+        font-size: 15px;
+        }
+
+    .main5{
+          height: 850px;
+
+    }
+
+    .slide img {
+        width: 562px;
+    }
+
+    .main6 {
+        padding-top: 35px;
+    }
+
+    .inputt {
+    width: 343px;
+    }
+
+    .image-container1 {
+    width: 100%;
+    height: 500px;
+    margin-bottom: 10px;
+    }
+
+    .image-container2 {
+    width: 100%;
+    height: 500px;
+    margin-bottom: 10px;
+    }
+
+    .image-container3 {
+    width: 100%;
+    height: 500px;
+    margin-bottom: 10px;
+    }
+
+    .mf {
+    margin-left: 50px;
+    width: 365px;
+    height: 45px;
+    }
+
+    .cf {
+    width: 365px;
+    }
+
+
+
+
+
+
+
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.mf {
+    margin-left: -16px;
+    width: 390px;
+    }
+.messs {
+    margin-bottom: 35px;
+    }
+
+    
+.mess {
+    width: 856px;
+}
+
+.f-r {
+    float: right;
+    height: 240px;
+    margin-top: -230px;
+}
+
+ }
+
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { }
